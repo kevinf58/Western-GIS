@@ -1,6 +1,6 @@
 # Western-GIS
 ## About This Project
-This project was done with 3 other classmates to simulate a software development process using Confluence, Jira, and BitBucket over the duration of 3 months. Together, we created an application to provide end users and developers with a number of functions:
+This project was done with 3 other classmates to simulate a software development process using Confluence, Jira, and BitBucket over the duration of 3 months. Together, we created a software to provide end users and developers with a number of functions:
 ### End Users
  - Allow users to log into their account (Account credentials were stored locally in JSON format)
  - View a guide on how to use the application
@@ -14,3 +14,12 @@ This project was done with 3 other classmates to simulate a software development
  - Allow developers to log into their developer account
  - Perform the same tasks as a standard end user
  - Add, delete, and modify building room types
+
+
+## Technologies Used
+ - Confluence, Jira, and bitbucket to plan, track, and manage the project
+ - Balsamiq to draw wireframes for our software
+ - NetBeans IDE
+ - Java
+ - Java Swing to display the software's GUI
+ - JUnit to produce tests and ensure proper software functionality
