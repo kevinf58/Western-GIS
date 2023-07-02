@@ -15,6 +15,8 @@ This project was done with 3 other classmates to simulate a software development
  - Perform the same tasks as a standard end user
  - Add, delete, and modify building room types
 
+The "project_management.zip" file contains all documented information for the group project. This includes meeting minutes, team contract, design documentation, requirements documentation, diagrams, UI mockup, and much more.
+
 
 ## Technologies Used
  - Confluence, Jira, and bitbucket to plan, track, and manage the project
