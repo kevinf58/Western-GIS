@@ -25,3 +25,6 @@ The "project_management.zip" file contains all documented information for the gr
  - Java
  - Java Swing to display the software's GUI
  - JUnit to produce tests and ensure proper software functionality
+
+## Project Documentation
+All documentation written throughout this project can be found in ```project_management.zip```
